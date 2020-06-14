@@ -1,0 +1,4 @@
+tests\BNSExcelDataTest.class
+basepack\BaseClass.class
+dataHelper\ExcelFileReader.class
+pages\BNSPage.class
