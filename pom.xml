@@ -36,7 +36,7 @@
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-junit</artifactId>
-            <version>4.8.1</version>
+            <version>4.2.6</version>
             <scope>test</scope>
         </dependency>
         <dependency>
@@ -184,7 +184,7 @@
                             <goal>generate</goal>
                         </goals>
                         <configuration>
-                            <projectName>MavenCucumberPageObjectModel</projectName>
+                            <projectName>JamalPageObjectModel</projectName>
                             <outputDirectory>target/cucumber-reports/advanced-report</outputDirectory>
                             <cucumberOutput>target/cucumber-reports/cucumber.json</cucumberOutput>
                             <buildNumber>1</buildNumber>
